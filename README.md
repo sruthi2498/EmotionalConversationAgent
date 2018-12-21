@@ -10,7 +10,7 @@
         ii) Install numpy version 1.14.6
     3) Create a conda virtual environment named Keras2.2.4
         i) Install keras version 2.2.4
-        ii) Install theano version 1.10.0
+        ii) Install tensorflow version 1.10.0
     4) Installations for Web server
         i) Install npm : https://www.npmjs.com/get-npm 
         $ cd stats_webpage
